@@ -1,11 +1,6 @@
 # convertor
-## Beta Version
-## Visualize process is almost complated
-## Have troubles in the link between windows and codes
-## Have trouble in compiling
-## Still working on the problem
+This is the Beta2 Version of this project. Visualize process is almost complated. But there are still troubles in the link between windows and codes. Still work on the problems.
 
-## Author: Ziyu Wang
-## Co Author: Tianqi Lee
+## Author: Ziyu Wang,  Tianqi Lee
 
-## Latest update: 18/6/26 0:01
+## Latest update: 18/6/29 19:38
